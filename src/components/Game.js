@@ -12,6 +12,7 @@ const items = [
   { id: "cursor", name: "Cursor", cost: 10, value: 1, firstName: true },
   { id: "grandma", name: "Grandma", cost: 100, value: 10, firstName: false },
   { id: "farm", name: "Farm", cost: 1000, value: 80, firstName: false },
+  { id: "megaCursor", name: "Mega cursor", cost: 5000, value: 0 },
 ];
 
 const Game = () => {
